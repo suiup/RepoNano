@@ -112,3 +112,9 @@ Linux:
 ```shell script
 export OMP_THREAD_LIMIT=4
 ```
+
+****
+
+## From
+
+https://github.com/RangiLyu/nanodet
